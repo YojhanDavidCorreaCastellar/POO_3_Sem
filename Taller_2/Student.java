@@ -15,8 +15,9 @@ public class Student {
 
     // Método static con error
     //public static void printStudent() {
-      //  System.out.println("Student: " + this.name + ", Age: " + this.age); 
+    //  System.out.println("Student: " + this.name + ", Age: " + this.age); 
     //
+    
     public static void printStudent() {
         Student student = new Student(); // Crear una instancia de Student
         System.out.println("Student: " + student.name + ", Age: " + student.age);

@@ -1,4 +1,4 @@
-package Vehicles;
+package Taller_3.products.Vehicles;
 
 public class Moto extends Vehicle { 
     public Moto(String brand) { 

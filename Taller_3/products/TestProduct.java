@@ -1,4 +1,4 @@
-package products;
+package Taller_3.products;
 
 class Product {
     String name;  // Package-access property
