@@ -56,10 +56,10 @@ public class Student {
     @Override
     public String toString() {
         return "Student{" +
-               "name='" + name + '\'' +
-               ", age=" + age +
-               ", average=" + average +
-               '}';
+                "name='" + name + '\'' +
+                ", age=" + age +
+                ", average=" + average +
+                '}';
     }
 
     public static void main(String[] args) {

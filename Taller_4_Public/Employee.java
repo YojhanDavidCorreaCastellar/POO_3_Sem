@@ -14,13 +14,12 @@ public class Employee {
     }
 
     void setSalary(double salary) {
-        if (salary >= 0) {
+        if (salary >= 0) {  
             this.salary = salary;
         } else {
             System.out.println("Salary cannot be negative.");
         }
     }
-
     @Override
     public String toString() {
         return "Employee{" +
